@@ -1,0 +1,1 @@
+﻿{"schemaVersion":"messages-v1","messages":[{"role":"user","content":[{"text":"hola"}]}],"inferenceConfig":{"maxTokens":300,"temperature":0.7,"topP":0.9,"topK":20}}
